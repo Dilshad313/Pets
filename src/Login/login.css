@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+}
+label{
+    color: blue;
+    size: 20px;
+    text-shadow: .5px .5px .5px black;
+}
+input{
+    width: 250px;
+    height: 40px;
+    background-color: rgb(243, 243, 226);
+    border-radius: 10px;
+}
+
+#log{
+    color: rgb(11, 11, 11);
+    text-shadow: 2px 2px 2px red;
+}
+button{
+   margin-left: 130px;
+   width: 100px;
+   height: 35px;
+   color: white;
+   background-color: blue;
+   border-radius: 10px;
+    
+}
+#main{
+    border: 2px solid black;
+    border-radius: 17px;
+    background-color: rgb(122, 147, 176);
+    height: 500px;
+    width: 400px;
+    margin-left: 560px;
+    margin-top: 60px;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+#content{
+    width: 100%;
+    height: 100%;
+}
